@@ -4,9 +4,9 @@ This repo implements the integer square root (ISR) IP that uses the pipelined mu
 
 The multiplication IP is a pipelined IP that utilizes pipelining to reduce critical path in 64-bit multiplication.
 
-# Testing
+## Testing
 - "isr_test.sv" - Comprehensive testing of ISR module
 - "mult_test.sv" - Comprehensive testing of the pipelined multiplication IP
 
-# Next Steps
+## Next Steps
 - Make the isr module parameterizable
